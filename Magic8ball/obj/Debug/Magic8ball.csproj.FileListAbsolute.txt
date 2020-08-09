@@ -7,3 +7,8 @@ C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magi
 C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.csproj.CoreCompileInputs.cache
 C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.exe
 C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.pdb
+C:\Users\Christian Kinsley\Source\Repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.magic8ball.resources
+C:\Users\Christian Kinsley\Source\Repos\super-parakeet\Magic8ball\bin\Debug\Magic8ball.exe.manifest
+C:\Users\Christian Kinsley\Source\Repos\super-parakeet\Magic8ball\bin\Debug\Magic8ball.application
+C:\Users\Christian Kinsley\Source\Repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.exe.manifest
+C:\Users\Christian Kinsley\Source\Repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.application
