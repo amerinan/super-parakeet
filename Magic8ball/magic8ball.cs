@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Magic8ball
 {
-    public partial class Form1 : Form
+    public partial class magic8ball : Form
     {
-        public Form1()
+        public magic8ball()
         {
             InitializeComponent();
         }

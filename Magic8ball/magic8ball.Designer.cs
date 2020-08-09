@@ -1,6 +1,6 @@
 ﻿namespace Magic8ball
 {
-    partial class Form1
+    partial class magic8ball
     {
         /// <summary>
         /// Required designer variable.
