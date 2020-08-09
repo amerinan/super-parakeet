@@ -1,0 +1,9 @@
+C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\bin\Debug\Magic8ball.exe.config
+C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\bin\Debug\Magic8ball.exe
+C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\bin\Debug\Magic8ball.pdb
+C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.csprojAssemblyReference.cache
+C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.Properties.Resources.resources
+C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.csproj.GenerateResource.cache
+C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.csproj.CoreCompileInputs.cache
+C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.exe
+C:\Users\Christian Kinsley\source\repos\super-parakeet\Magic8ball\obj\Debug\Magic8ball.pdb
